@@ -24,8 +24,7 @@ With a single hotkey trigger, you can instantly clear your workspace environment
 
 ## Configuration Settings
 
-<img width="795" height="580" alt="image" src="https://github.com/user-attachments/assets/253cffb1-9511-45c2-b039-a6d0032581ea" />
-
+<img width="909" height="666" alt="image" src="https://github.com/user-attachments/assets/6dc24fe6-1855-4c10-9885-45d399a09583" />
 
 You can completely customize your experience using the native built-in settings panel:
 
