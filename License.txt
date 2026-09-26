@@ -1,0 +1,15 @@
+Copyright (c) 2026 Vinarator (borsira428@gmail.com). All Rights Reserved.
+
+TERMS AND CONDITIONS
+
+1. Source Viewing & Contributions
+The source code of Hidera ClearView is published for inspection, review, and personal learning. Users are welcome to review the implementation, submit bug reports, and propose feature pull requests to this official repository.
+
+2. Restrictions on Modifications and Redistribution
+You may NOT modify, alter, redistribute, sub-license, fork, or republish this software or its source code (in whole or in part) without explicit prior written authorization from the copyright holder (Vinarator). 
+
+3. Non-Commercial Personal Use
+The compiled application is provided free of charge strictly for personal, non-commercial use. Commercial use, resale, or distribution of this software as part of a paid package is strictly prohibited.
+
+4. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT OR INDIRECT DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.
