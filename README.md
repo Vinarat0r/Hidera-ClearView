@@ -15,9 +15,8 @@ The program runs silently in the background and is currently **still in active d
 
 ## Custom Desktop Toggle
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/895b2bea-6341-4bb6-b3d0-4c22c3984989" width="650" alt="Hidera ClearView Desktop Toggle" />
-</p>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6db01165-53bd-4f5e-ba52-439748a8b5cc" />
+
 
 With a single hotkey trigger, you can instantly clear your workspace environment. By default, the application is pre-configured to respond to **`Alt + F5`** (You need to focus on your desktop).
 
@@ -25,9 +24,8 @@ With a single hotkey trigger, you can instantly clear your workspace environment
 
 ## Configuration Settings
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/597a2d6b-b9a4-4024-9c95-f33785d9db17" width="320" alt="Hidera Settings Panel" />
-</p>
+<img width="795" height="580" alt="image" src="https://github.com/user-attachments/assets/253cffb1-9511-45c2-b039-a6d0032581ea" />
+
 
 You can completely customize your experience using the native built-in settings panel:
 
