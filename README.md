@@ -34,7 +34,7 @@ You can completely customize your experience using the native built-in settings 
 * **Component Toggles:** Choose exactly what you want to disappear — the Windows Taskbar, standard Desktop Icons, or active Rainmeter widgets.
 * **Hotkey Customization:** Adjust the hotkey trigger conditions directly. You can toggle **Win** and **Alt** modifier checkboxes independently and pair them with any functional key from **F1** to **F12**.
 * **Smart Desktop Focus:** The global hotkey trigger safely validates active window classes. It fires **only** when you are interacting directly with the empty desktop space, staying completely non-intrusive during full-screen games, media players, or web browsers.
-* **Proactive RAM Efficiency:** After executing a visibility toggle, the background process actively flushes its memory working set down to a minimal profile of **~16 - 22 MB**.
+* **Proactive RAM Efficiency:** After executing a visibility toggle, the background process actively flushes its memory working set down to a minimal profile of **~2 MB** or little more.
 
 ---
 
