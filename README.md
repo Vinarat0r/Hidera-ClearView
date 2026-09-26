@@ -2,7 +2,7 @@
 
 Allows you to hide icons, the Windows taskbar, and other elements from the desktop for a clean look.
 
-> **The full source code for this project is currently being prepared and will be made publicly available here very soon!** Stay tuned for updates.
+> **The full source code for this project is currently being prepared and will be made publicly available here soon** Stay tuned for updates.
 ---
 
 ## About the Project
